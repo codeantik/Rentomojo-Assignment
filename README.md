@@ -1,4 +1,4 @@
-## To start the app in local:
+# To start the app in local:
 
-# npm install
-# npm start
+## npm install
+## npm start
